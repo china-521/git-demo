@@ -19,3 +19,4 @@ hello atguigu! hello git! master test change
 hello atguigu! hello git! hot-fix test change
 hello atguigu! hello git! hot-fix test change
 测试代码拉取
+测试ssh免密登录
